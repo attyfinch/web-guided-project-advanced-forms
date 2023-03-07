@@ -34,6 +34,7 @@ const initialFormErrors = {
   role: '',
   civil: '',
 }
+
 const initialFriends = []
 const initialDisabled = true
 
